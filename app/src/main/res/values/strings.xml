@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IF 18S</string>
+
+    <string-array name="prodi">
+        <item>Teknik Informatika</item>
+        <item>Teknologi Informasi</item>
+        <item>Sistem Informasi</item>
+    </string-array>
+</resources>
